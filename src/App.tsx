@@ -125,11 +125,11 @@ export default function App() {
           <nav className="hidden lg:flex items-center gap-1.5">
             {[
               { id: 'home', label: 'Home' },
-              { id: 'about', label: 'About Us' },
+              { id: 'about', label: 'About' },
               { id: 'services', label: 'Services' },
               { id: 'industries', label: 'Industries' },
-              { id: 'team', label: 'Our Founder' },
-              { id: 'blogs', label: 'Insights & Blogs' },
+              { id: 'team', label: 'Team' },
+              { id: 'blogs', label: 'Blogs' },
               { id: 'contact', label: 'Contact' }
             ].map((navItem) => (
               <button
