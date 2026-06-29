@@ -1104,11 +1104,11 @@ export default function App() {
           <div className="md:col-span-2 space-y-4">
             <h4 className="text-xs font-mono uppercase tracking-wider text-white font-bold">Advisory Links</h4>
             <ul className="space-y-2 text-xs text-slate-400">
-              <li><button onClick={() => navigateTo('about')} className="hover:text-amber-400 transition-colors cursor-pointer">About CA Alok</button></li>
-              <li><button onClick={() => navigateTo('services')} className="hover:text-amber-400 transition-colors cursor-pointer">15 Core Services</button></li>
+              <li><button onClick={() => navigateTo('about')} className="hover:text-amber-400 transition-colors cursor-pointer">Aboutk</button></li>
+              <li><button onClick={() => navigateTo('services')} className="hover:text-amber-400 transition-colors cursor-pointer">Services</button></li>
               <li><button onClick={() => navigateTo('industries')} className="hover:text-amber-400 transition-colors cursor-pointer">Sectors & Industries</button></li>
-              <li><button onClick={() => navigateTo('team')} className="hover:text-amber-400 transition-colors cursor-pointer">Founder Profile</button></li>
-              <li><button onClick={() => navigateTo('blogs')} className="hover:text-amber-400 transition-colors cursor-pointer">Insights & Blogs</button></li>
+              <li><button onClick={() => navigateTo('team')} className="hover:text-amber-400 transition-colors cursor-pointer">Team</button></li>
+              <li><button onClick={() => navigateTo('blogs')} className="hover:text-amber-400 transition-colors cursor-pointer">Blogs</button></li>
             </ul>
           </div>
 
