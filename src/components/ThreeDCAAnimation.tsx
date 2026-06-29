@@ -436,11 +436,7 @@ export default function ThreeDCAAnimation() {
         title="Interactive CA 3D Dashboard - Hover/drag to interact"
       />
       
-      {/* Absolute overlay indicator */}
-      // <div className="absolute bottom-2 right-4 flex items-center gap-1.5 text-[10px] text-amber-500/60 font-mono tracking-wider uppercase pointer-events-none">
-      //   <span className="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse" />
-      //   Interactive Ledger Projection
-      // </div>
+      
     </div>
   );
 }
