@@ -113,7 +113,7 @@ export default function App() {
             <div>
               <div className="font-display font-bold text-lg text-slate-900 tracking-tight flex items-center gap-1">
                 CA Alok Khamnotra
-                <span className="text-xs font-mono font-normal bg-amber-100 border border-amber-200 text-amber-800 rounded px-1.5 py-0.5">FCA</span>
+          
               </div>
               <p className="text-[11px] font-sans text-slate-500 tracking-wider uppercase font-semibold">
                 Founder &bull; <span className="text-amber-700 text-xs lowercase">Chartered Accountant</span>
@@ -442,7 +442,7 @@ export default function App() {
                   Integrity, Experience, and <br />Uncompromising Financial Hygiene.
                 </h1>
                 <p className="text-base sm:text-lg text-slate-600 max-w-4xl leading-relaxed">
-                  Founded by <strong className="text-slate-900 font-bold">CA Alok Khamnotra (FCA)</strong>, our Chartered Accountant firm represents Jaipur’s gold standard for financial intelligence, precision taxation compliance, and robust statutory auditing. We empower individual taxpayers, MSME sectors, and highly scaled corporate bodies with transparent accounting systems.
+                  Founded by <strong className="text-slate-900 font-bold">CA Alok Khamnotra</strong>, our Chartered Accountant firm represents Jaipur’s gold standard for financial intelligence, precision taxation compliance, and robust statutory auditing. We empower individual taxpayers, MSME sectors, and highly scaled corporate bodies with transparent accounting systems.
                 </p>
               </section>
 
