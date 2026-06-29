@@ -21,7 +21,7 @@ export const blogsData: BlogPost[] = [
     title: 'New Tax Regime vs Old Tax Regime: AY 2026-27 Updates',
     category: 'Income Tax',
     date: 'May 18, 2026',
-    author: 'CA Neha Sharma',
+    author: 'CA Alok Khamnotra',
     readTime: '5 min read',
     summary: 'A side-by-side analysis of tax regimes under the latest Union Budget. Discover which structure maximizes your tax savings based on your investment profile.',
     content: [
@@ -49,7 +49,7 @@ export const blogsData: BlogPost[] = [
     title: 'Mitigating TRACES Demands: Vetting TDS and TCS Credits',
     category: 'Direct Taxes',
     date: 'March 05, 2026',
-    author: 'CA Neha Sharma',
+    author: 'CA Alok Khamnotra',
     readTime: '4 min read',
     summary: 'A practical playbook for financial officers to reconcile Form 26AS, AIS, and TIS databases, resolving outstanding TDS defaults on the TRACES portal.',
     content: [
